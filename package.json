@@ -1,0 +1,53 @@
+{
+  "name": "nextjs-prismic-blog-starter",
+  "description": "Blog starter template built with nextjs and Prismic.",
+  "version": "1.1.4",
+  "author": "Sai Nikhil <contact@iamsainikhil.com>",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "dayjs": "^1.9.6",
+    "disqus-react": "^1.0.10",
+    "next": "11.1.3",
+    "next-google-fonts": "^1.2.1",
+    "next-pwa": "^3.1.5",
+    "prism-react-renderer": "^1.1.1",
+    "prismic-javascript": "^3.0.2",
+    "prismic-reactjs": "^1.3.3",
+    "prop-types": "^15.7.2",
+    "react": "17.0.1",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "17.0.1",
+    "react-ga": "^3.3.0",
+    "react-gist": "^1.2.2",
+    "react-headroom": "^3.0.1",
+    "react-icons": "^4.1.0",
+    "react-images": "^1.1.7",
+    "react-snakke": "^1.2.3",
+    "react-toastify": "^6.1.0",
+    "sass": "^1.29.0",
+    "theme-ui": "^0.3.4"
+  },
+  "keywords": [
+    "blog",
+    "nextjs",
+    "prismic",
+    "prismic-previews",
+    "theme UI",
+    "prismjs",
+    "react",
+    "google-fonts",
+    "scss"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamsainikhil/nextjs-prismic-blog-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/iamsainikhil/nextjs-prismic-blog-starter/issues"
+  }
+}
